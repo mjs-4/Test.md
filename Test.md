@@ -20,6 +20,12 @@ _mahmoud_
 
 
 `public int ID {get; set;}`
+
+  scanner s=new scanner(system/in);
+  int num = 5
+
+
+  
 # Heading 3
 1. item 1
 2. item 2
