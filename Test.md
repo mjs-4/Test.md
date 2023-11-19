@@ -21,8 +21,8 @@ _mahmoud_
 
 `public int ID {get; set;}`
 
-  scanner s=new scanner(system/in);
-  int num = 5
+    scanner s=new scanner(system/in);
+    int num = 5
 
 
   
