@@ -37,5 +37,6 @@ _mahmoud_
 
 
 | table 1| |table 1|
-
+|------------| |--------|
+|content 1| |content 2|
   
