@@ -13,13 +13,12 @@ Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris
 
 [visit google](https://www.google.com)
 
-[MarkDown Logo](https://www.svgrepo.com/show/306375/markdown.svg)
+![MarkDown Logo](https://www.svgrepo.com/show/306375/markdown.svg)
 *Mahmoud*
 
 _mahmoud_
 
-*Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante.
-Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,*
+
 
 # Heading 3
 1. item 1
