@@ -34,8 +34,7 @@ _mahmoud_
 - item
 
 
-(---);
-
+---
 | col1 | col2 1 |
 |---------|--------|
 |content 1 |content 2|
