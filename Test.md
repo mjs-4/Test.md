@@ -36,7 +36,7 @@ _mahmoud_
 
 (---);
 
-| table 1| |table 1|
-|------------| |--------|
-|content 1| |content 2|
+| col1 | col2 1 |
+|---------|--------|
+|content 1 |content 2|
   
